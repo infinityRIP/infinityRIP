@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://dev.to/inf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="inf" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/i.f_x.x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i.f_x.x/" height="30" width="40" /></a>
-<a href="https:/www.youtube.com/@infinityripch.4427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@infinityripch.4427" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@infinityripch.4427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@infinityripch.4427" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/GH3bmfHaUy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GH3bmfHaUy" height="30" width="40" /></a>
 <a href="/https://infinityrip.in.th/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://infinityrip.in.th/index.html" height="30" width="40" /></a>
 </p>
