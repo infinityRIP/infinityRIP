@@ -32,5 +32,7 @@
 
 
 ![infinityRIP's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinityRIP&show_icons=true&theme=radical)
-[![infinityRIP' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=infinityRIP)](https://github.com/infinityRIP/github-readme-stats)
+
+
+[![infinityRIP's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=infinityRIP&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/infinityRIP)
 
