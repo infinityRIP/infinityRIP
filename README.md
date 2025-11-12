@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python , Japanese**
 
-- 👯 I’m currently develop on [Monsterium Manager](https://github.com/infinityRIP/Monsterium_Manager_3D.git)
+- 👯 I’m currently develop on [Monsterium Manager](https://github.com/infinityRIP/Monsterium_Manager_3D.git) and [KeepSmile]([https://github.com/infinityRIP/Monsterium_Manager_3D.git](https://github.com/023bqmx/horrorgamejaminter))
 
 - 🤝 I’m looking for help with **Art**
 
